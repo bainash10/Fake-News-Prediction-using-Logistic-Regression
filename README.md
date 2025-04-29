@@ -1,4 +1,4 @@
-# Fake News Detection Using Logistic Regression
+# Fake News Prediction Using Logistic Regression
 
 This machine learning project is centered on detecting fake news articles using logistic regression. The dataset consists of news-related metadata, and the objective is to classify news as real (`0`) or fake (`1`). Extensive text preprocessing was carried out before modeling, and classification metrics were used to evaluate the model's performance.
 
